@@ -1,0 +1,27 @@
+{
+  "name": "soundgrail-free-sample-packs",
+  "version": "1.0.0",
+  "description": "Free Sample Packs download free, high-quality sample packs for music production",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "free-samples",
+    "sample-packs",
+    "music-production",
+    "samples",
+    "audio",
+    "ableton",
+    "fl-studio",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "SoundGrail",
+  "license": "ISC",
+  "homepage": "https://soundgrail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundgrail/free-sample-packs.git"
+  }
+}
